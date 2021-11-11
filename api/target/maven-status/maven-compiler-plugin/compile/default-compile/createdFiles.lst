@@ -1,0 +1,6 @@
+org\openmrs\module\melworkshop\MelodyworkshopmoduleConfig.class
+org\openmrs\module\melworkshop\Item.class
+org\openmrs\module\melworkshop\api\dao\MelodyworkshopmoduleDao.class
+org\openmrs\module\melworkshop\api\MelodyworkshopmoduleService.class
+org\openmrs\module\melworkshop\api\impl\MelodyworkshopmoduleServiceImpl.class
+org\openmrs\module\melworkshop\MelodyworkshopmoduleActivator.class
